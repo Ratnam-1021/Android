@@ -1,0 +1,22 @@
+# General Android/IntelliJ ignore
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Specific to Kotlin/Compose
+*.elf
+*.so
+.kotlin/
+
+# User-specific Studio settings
+*.iws
+*.out
+
+# If you ever use Google Services
+# google-services.json
